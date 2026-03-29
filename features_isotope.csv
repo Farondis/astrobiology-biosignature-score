@@ -1,0 +1,8 @@
+sample_id,location,instrument,context,d13c_score,d34s_score,dD_score,channels_available,missing_channels,s_chem_iso_hint,contam_hint,is_abiotic_context
+jezero_delta_abrasion_01,Jezero Crater delta,SAM/TLS,10.1126/science.abq3765,0.0000,0.0000,0.0000,0,3,0.0000,0.0000,0
+jezero_sulfate_vein_01,Jezero Crater sulfate vein,SuperCam,10.1038/s41586-023-06143-z,0.0000,0.0000,0.0000,1,2,0.0000,0.0000,0
+jezero_carbonate_01,Jezero Crater carbonate,SHERLOC/SuperCam,10.1126/science.abo2196,0.0000,0.0000,0.0000,0,3,0.0000,0.0000,0
+earth_stromatolite_ref,Shark Bay Australia,Lab IRMS,10.1016/j.epsl.2019.02.001,0.0360,0.0000,0.0000,2,1,0.0180,0.0000,0
+earth_evaporite_ref,Death Valley USA,Lab IRMS,10.1016/j.chemgeo.2017.01.002,0.0000,0.6440,0.0000,2,1,0.3220,0.0000,0
+earth_hydrothermal_ref,Yellowstone USA,Lab IRMS,10.1111/j.1462-2920.2008.01820.x,0.0000,0.0000,0.0000,2,1,0.0000,0.0000,0
+abiotic_fischer_tropsch,Lab synthetic,Lab IRMS,10.1016/j.gca.2006.04.010,0.0000,0.0000,0.0000,0,3,0.0000,0.0000,0

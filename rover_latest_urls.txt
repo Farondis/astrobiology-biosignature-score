@@ -1,0 +1,44 @@
+Sol-01810M20:36:11.260|{'filter_name': 'OPEN', 'camera_vector': '(0.18755117030942228,0.20907598266991959,0.9597456913089913)', 'camera_model_component_list': '(2.41978,-0.129732,-0.421942);(0.192322,0.206322,0.959399);(-2413.89,-889.322,1524.0);(1285.35,-2486.27,915.599);(0.199803,0.185982,0.962025);(0.000473,-0.032613,0.136778)', 'camera_position': '(2.41978,-0.129732,-0.421942)', 'instrument': 'SHERLOC_WATSON', 'camera_model_type': 'CAHVOR'}|https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01810/ids/edr/browse/shrlc/SIF_1810_0827652259_312EBY_N0870120SRLC08060_0000LMJ01.png
+Sol-01810M20:36:11.260|{'filter_name': 'OPEN', 'camera_vector': '(0.18755117030942228,0.20907598266991959,0.9597456913089913)', 'camera_model_component_list': '(2.41978,-0.129732,-0.421942);(0.192322,0.206322,0.959399);(-2413.89,-889.322,1524.0);(1285.35,-2486.27,915.599);(0.199803,0.185982,0.962025);(0.000473,-0.032613,0.136778)', 'camera_position': '(2.41978,-0.129732,-0.421942)', 'instrument': 'SHERLOC_WATSON', 'camera_model_type': 'CAHVOR'}|https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01810/ids/edr/browse/shrlc/SI1_1810_0827652259_312ECM_N0870120SRLC08060_0000LMJ01.png
+Sol-01810M20:35:36.223|{'filter_name': 'OPEN', 'camera_vector': '(0.18755117030942228,0.20907598266991959,0.9597456913089913)', 'camera_model_component_list': '(2.41978,-0.129732,-0.421942);(0.192322,0.206322,0.959399);(-2413.89,-889.322,1524.0);(1285.35,-2486.27,915.599);(0.199803,0.185982,0.962025);(0.000473,-0.032613,0.136778)', 'camera_position': '(2.41978,-0.129732,-0.421942)', 'instrument': 'SHERLOC_WATSON', 'camera_model_type': 'CAHVOR'}|https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01810/ids/edr/browse/shrlc/SIF_1810_0827652223_375EBY_N0870120SRLC08060_0000LMJ01.png
+# PDS archive references below are authoritative sources discovered for Mastcam-Z, SuperCam, and PIXL.
+# They are kept here for provenance and follow-up mining, but should not be ingested as direct rover products.
+PDS-REF-2026-03-20|{'instrument': 'MASTCAM_Z', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/context-pds4/instrument/mars2020.mastcamz_1.3.xml
+PDS-REF-2026-03-20|{'instrument': 'MASTCAM_Z', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/img/mars2020_mastcamz_ops_raw-20250922/bundle.xml
+PDS-REF-2026-03-20|{'instrument': 'MASTCAM_Z', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/img/mars2020_mastcamz_ops_raw-20250922/collection_data.xml
+PDS-REF-2026-03-20|{'instrument': 'MASTCAM_Z', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/img/mars2020_mastcamz_ops_raw-20250922/collection_data_inventory.csv
+PDS-REF-2026-03-20|{'instrument': 'MASTCAM_Z', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/img/mars2020_mastcamz_ops_raw-20250922/collection_browse.xml
+PDS-REF-2026-03-20|{'instrument': 'MASTCAM_Z', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/img/mars2020_mastcamz_ops_calibrated-20250922/bundle.xml
+PDS-REF-2026-03-20|{'instrument': 'MASTCAM_Z', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/img/mars2020_mastcamz_ops_calibrated-20250922/collection_data.xml
+PDS-REF-2026-03-20|{'instrument': 'MASTCAM_Z', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/img/mars2020_mastcamz_ops_calibrated-20250922/collection_browse.xml
+PDS-REF-2026-03-20|{'instrument': 'MASTCAM_Z', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/img/mars2020_mastcamz_ops_stereo-20250922/bundle.xml
+PDS-REF-2026-03-20|{'instrument': 'MASTCAM_Z', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/img/mars2020_mastcamz_ops_mosaic-20250922/bundle.xml
+PDS-REF-2026-03-20|{'instrument': 'MASTCAM_Z', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/img/mars2020_mastcamz_ops_mesh-20250922/bundle.xml
+PDS-REF-2026-03-20|{'instrument': 'MASTCAM_Z', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/img/mars2020_mastcamz_sci_calibrated-20250922/bundle.xml
+PDS-REF-2026-03-20|{'instrument': 'MASTCAM_Z', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/img/mars2020_mastcamz_sci_calibrated-20250922/collection_data.xml
+PDS-REF-2026-03-20|{'instrument': 'MASTCAM_Z', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/img/mars2020_mastcamz_sci_calibrated-20250922/collection_browse.xml
+PDS-REF-2026-03-20|{'instrument': 'MASTCAM_Z', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/geo/mars2020_mastcamz_photometry-20250922/bundle_mars2020_mastcam_photometry.xml
+PDS-REF-2026-03-20|{'instrument': 'SUPERCAM_RMI', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/context-pds4/instrument/mars2020.supercam_1.3.xml
+PDS-REF-2026-03-20|{'instrument': 'SUPERCAM_RMI', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/geo/mars2020_supercam-20251204/bundle_supercam.xml
+PDS-REF-2026-03-20|{'instrument': 'SUPERCAM_RMI', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/geo/mars2020_supercam-20251204/collection_data_raw_rmi.xml
+PDS-REF-2026-03-20|{'instrument': 'SUPERCAM_RMI', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/geo/mars2020_supercam-20251204/collection_data_radcal_rmi.xml
+PDS-REF-2026-03-20|{'instrument': 'SUPERCAM_RMI', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/geo/mars2020_supercam-20251204/collection_data_special_rmi.xml
+PDS-REF-2026-03-20|{'instrument': 'SUPERCAM', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/geo/mars2020_supercam-20251204/collection_data_raw_audio.xml
+PDS-REF-2026-03-20|{'instrument': 'SUPERCAM', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/geo/mars2020_supercam-20251204/collection_data_raw_spectra.xml
+PDS-REF-2026-03-20|{'instrument': 'SUPERCAM', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/geo/mars2020_supercam-20251204/collection_data_calibrated_audio.xml
+PDS-REF-2026-03-20|{'instrument': 'SUPERCAM', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/geo/mars2020_supercam-20251204/collection_data_calibrated_spectra.xml
+PDS-REF-2026-03-20|{'instrument': 'SUPERCAM', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/geo/mars2020_supercam-20251204/collection_data_derived_spectra.xml
+PDS-REF-2026-03-20|{'instrument': 'SUPERCAM', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/geo/mars2020_supercam-20251204/collection_data_observation_log.xml
+PDS-REF-2026-03-20|{'instrument': 'SUPERCAM', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/geo/mars2020_supercam-20251204/collection_calibration_supercam.xml
+PDS-REF-2026-03-20|{'instrument': 'SUPERCAM', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/geo/mars2020_supercam-20251204/collection_document.xml
+PDS-REF-2026-03-20|{'instrument': 'SUPERCAM_RMI', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/img/mars2020_imgops-20250922/bundle.xml
+PDS-REF-2026-03-20|{'instrument': 'SUPERCAM_RMI', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/img/mars2020_imgops-20250922/collection_data_rmi_imgops.xml
+PDS-REF-2026-03-20|{'instrument': 'PIXL_MCC', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/context-pds4/instrument/mars2020.pixl_1.3.xml
+PDS-REF-2026-03-20|{'instrument': 'PIXL', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/geo/mars2020_pixl-20250922/bundle_pixl.xml
+PDS-REF-2026-03-20|{'instrument': 'PIXL_MCC', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/geo/mars2020_pixl-20250922/collection_data_imaging.xml
+PDS-REF-2026-03-20|{'instrument': 'PIXL', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/geo/mars2020_pixl-20250922/collection_data_processed.xml
+PDS-REF-2026-03-20|{'instrument': 'PIXL', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/geo/mars2020_pixl-20250922/collection_data_raw_spectroscopy.xml
+PDS-REF-2026-03-20|{'instrument': 'PIXL', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/geo/mars2020_pixl-20250922/collection_data_raw_ancillary.xml
+PDS-REF-2026-03-20|{'instrument': 'PIXL', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/geo/mars2020_pixl-20251204/collection_data_oxides_pmc.xml
+PDS-REF-2026-03-20|{'instrument': 'PIXL', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/geo/mars2020_pixl-20250922/collection_document.xml
+PDS-REF-2026-03-20|{'instrument': 'PIXL_MCC', 'entry_type': 'ARCHIVE_REF'}|http://pds.nasa.gov/data/pds4/releases/img/mars2020_imgops-20250922/collection_data_mcc_imgops.xml

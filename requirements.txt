@@ -1,0 +1,9 @@
+# Tüm araçlar Python standart kütüphanesi ile çalışır.
+# Ek bağımlılık gerekmez.
+#
+# Minimum Python sürümü: 3.9
+#
+# İsteğe bağlı (gelecek genişletmeler için):
+# astropy          # FITS dosya okuma
+# spectral-cube    # 3B spektral küp işleme
+# matplotlib       # Grafik çizimi
